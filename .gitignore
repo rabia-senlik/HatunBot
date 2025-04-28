@@ -1,0 +1,18 @@
+# MinIO ve API şifrelerini gizle
+chat_data.db
+*.json
+*.log
+*.txt
+
+# MinIO şifreleri
+*.env
+
+# Python Bytecode dosyaları
+__pycache__/
+*.pyc
+*.pyo
+
+# Ortam dosyaları
+venv/
+minio
+minio
